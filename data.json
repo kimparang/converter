@@ -1,5 +1,5 @@
-[{"AS-IS TABLE":"users","TO-BE TABLE":"users_new","AS-IS COLUMN":"id","TO-BE COLUMN":"user_id"},
-{"AS-IS TABLE":"users","TO-BE TABLE":"users_new","AS-IS COLUMN":"name","TO-BE COLUMN":"username"},
+[{"AS-IS TABLE":"users","TO-BE TABLE":"changeusers","AS-IS COLUMN":"id","TO-BE COLUMN":"changeusers_id"},
+{"AS-IS TABLE":"users","TO-BE TABLE":"changeusers","AS-IS COLUMN":"name","TO-BE COLUMN":"changeusers_name"},
 {"AS-IS TABLE":"products","TO-BE TABLE":"products_new","AS-IS COLUMN":"product_id","TO-BE COLUMN":"prod_id"},
 {"AS-IS TABLE":"products","TO-BE TABLE":"products_new","AS-IS COLUMN":"product_name","TO-BE COLUMN":"prod_name"},
 {"AS-IS TABLE":"categories","TO-BE TABLE":"categories_new","AS-IS COLUMN":"category_id","TO-BE COLUMN":"cat_id"},
