@@ -1,0 +1,16 @@
+[{"AS-IS TABLE":"users","TO-BE TABLE":"users_new","AS-IS COLUMN":"id","TO-BE COLUMN":"user_id"},
+{"AS-IS TABLE":"users","TO-BE TABLE":"users_new","AS-IS COLUMN":"name","TO-BE COLUMN":"username"},
+{"AS-IS TABLE":"products","TO-BE TABLE":"products_new","AS-IS COLUMN":"product_id","TO-BE COLUMN":"prod_id"},
+{"AS-IS TABLE":"products","TO-BE TABLE":"products_new","AS-IS COLUMN":"product_name","TO-BE COLUMN":"prod_name"},
+{"AS-IS TABLE":"categories","TO-BE TABLE":"categories_new","AS-IS COLUMN":"category_id","TO-BE COLUMN":"cat_id"},
+{"AS-IS TABLE":"categories","TO-BE TABLE":"categories_new","AS-IS COLUMN":"category_name","TO-BE COLUMN":"cat_name"},
+{"AS-IS TABLE":"orders","TO-BE TABLE":"orders_new","AS-IS COLUMN":"order_id","TO-BE COLUMN":"ord_id"},
+{"AS-IS TABLE":"customers","TO-BE TABLE":"customers_new","AS-IS COLUMN":"customer_id","TO-BE COLUMN":"cust_id"},
+{"AS-IS TABLE":"customers","TO-BE TABLE":"customers_new","AS-IS COLUMN":"customer_name","TO-BE COLUMN":"cust_name"},
+{"AS-IS TABLE":"order_items","TO-BE TABLE":"order_items_new","AS-IS COLUMN":"order_id","TO-BE COLUMN":"ord_id"},
+{"AS-IS TABLE":"order_items","TO-BE TABLE":"order_items_new","AS-IS COLUMN":"product_id","TO-BE COLUMN":"prod_id"},
+{"AS-IS TABLE":"order_items","TO-BE TABLE":"order_items_new","AS-IS COLUMN":"quantity","TO-BE COLUMN":"qty"}]
+
+
+
+
